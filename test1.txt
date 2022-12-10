@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is D2E2-A662
-
- Directory of C:\Users\Asus\OneDrive\Desktop\MyProjectGit
-
-09/12/2022  16:00    <DIR>          .
-09/12/2022  16:00    <DIR>          ..
-09/12/2022  16:00                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  45,236,142,080 bytes free
+change1
